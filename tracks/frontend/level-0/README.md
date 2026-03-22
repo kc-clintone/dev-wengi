@@ -1,18 +1,32 @@
-# Level 0 — Foundations
+# Task 1 — Setup Your Environment
 
-Goal: Understand basic HTML, CSS, and JavaScript.
+## 🎯 Goal
 
-## Tasks
+Get your development environment ready.
 
-1. Setup your environment
-2. Build a simple HTML page
-3. Add basic styling
-4. Write your first JavaScript
+---
 
-## How to Complete
+## 🛠 Requirements
 
-- Fork this repo
-- Complete tasks inside `/tasks`
-- Submit a PR
+- Install a code editor (VS Code recommended)
+- Install Git
+- Create a GitHub account
 
-Once approved → move to Level 1 🚀
+---
+
+## ✅ Steps
+
+1. Install VS Code
+2. Install Git
+3. Create a GitHub account
+4. Create a new folder called `frontend-level-0`
+5. Open it in VS Code
+
+---
+
+## ✅ Done When
+
+- You have a github account
+- You can open your project in VS Code
+- You can run `git --version` in terminal
+
